@@ -49,6 +49,7 @@
 - [验证 GitHub Pages 的自定义域 - GitHub Docs](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages)
 - [Introduction - mdBook Documentation](https://rust-lang.github.io/mdBook/#contributing)
     - 一个更加高速而且不用任何 meta 头信息的 SSG
+    - [Installation - mdBook Documentation](https://rust-lang.github.io/mdBook/guide/installation.html#build-from-source-using-rust) ~ 有预编译好的, 可以从官网直接下载使用
 
 ## logging
 > 版本记要
