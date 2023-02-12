@@ -1,0 +1,32 @@
+[book]
+authors = ["ZoomQuiet"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ABC~卷积图书护送"
+base_url = "abc.d0d.fun"
+
+# Enables the `mdbook-template` preprocessor
+#[preprocessor.template]
+
+[build]
+build-dir = "docs"
+
+
+[output.html]
+#mathjax-support = true
+#site-url = "/mdBook/"
+git-repository-url = "https://github.com/OpenBookProjects/abc"
+#edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
+
+[output.html.playground]
+line-numbers = true
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
