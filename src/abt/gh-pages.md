@@ -38,7 +38,10 @@
     - `$ ./pub.sh ./`
     - 告诉 pub.sh 针对当前目录进行发布工程
 
+### utteranc.es
 
+当然要增强,加载评注支持, 使用 [utterances](https://utteranc.es/)
+和 [Issues · OpenBookProjects/recommendation](https://github.com/OpenBookProjects/recommendation/issues) 关联起来
 
 ## refer.
 > 关键参考
