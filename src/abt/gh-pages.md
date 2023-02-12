@@ -38,6 +38,16 @@
     - `$ ./pub.sh ./`
     - 告诉 pub.sh 针对当前目录进行发布工程
 
+
+### PS:
+自动发布脚本使用了 https://github.com/ahmadawais/Emoji-Log/
+
+- 其中 `git upd` 是一条自定义指令
+- 包含 add/commit/push 三步行为
+- 建议在 `~/.gitconfig` 中配置上
+
+
+
 ### utteranc.es
 
 当然要增强,加载评注支持, 使用 [utterances](https://utteranc.es/)
