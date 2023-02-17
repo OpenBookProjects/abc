@@ -1,7 +1,5 @@
 # Summary
 
-- [有关](./abt/README.md)
-    + [发布](./abt/gh-pages.md)
 - [直播](./bb/README.md)
     + [0:启动](./bb/221124-startup.md)
     + [1:AI简史](./bb/221208-nick-ai-shistory.md)
@@ -14,6 +12,8 @@
     + [8:Rebel Code](./bb/230202-rebel-code.md)
     + [9:只是为了好玩](./bb/230209-just-for-fun.md)
     + [10:硅谷之火](./bb/230216-23-fire-in-valley.md)
+- [有关](./abt/README.md)
+    + [发布](./abt/gh-pages.md)
 - [旁读](./dama/README.md)
     + [2023](./dama/2023/README.md)
         + [瓜亚基印第安人编年史](./dama/2023/chronique-des-indiens-guayaki.md)
