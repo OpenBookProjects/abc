@@ -13,6 +13,8 @@
     + [9:只是为了好玩](./bb/230209-just-for-fun.md)
     + [10:硅谷之火](./bb/230216-23-fire-in-valley.md)
     + [11:青少年学编程语言论0](./bb/230302_programming_learn4young0.md)
+    + [12:开源文化在中国](./bb/230302_programming_learn4young0.md)
+    + [13:NCRE二级 Python](./bb/230316_ncre2python.md)
 - [有关](./abt/README.md)
     + [发布](./abt/gh-pages.md)
 - [旁读](./dama/README.md)

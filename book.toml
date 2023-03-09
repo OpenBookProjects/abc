@@ -1,6 +1,6 @@
 [book]
 authors = ["ZoomQuiet"]
-language = "en"
+language = "zh"
 multilingual = false
 src = "src"
 title = "ABC~卷积图书护送"
@@ -13,20 +13,45 @@ base_url = "abc.d0d.fun"
 build-dir = "docs"
 
 
+[rss4mdbook]
+url_base = "https://abc.d0d.fun"
+rss_title = "ABC ~ 卷积图书护送"
+rss_desc = "~ 每周四21:00直播聊书"
+
 [output.html]
-#mathjax-support = true
-#site-url = "/mdBook/"
 git-repository-url = "https://github.com/OpenBookProjects/abc"
-#edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
+edit-url-template = "https://github.com/OpenBookProjects/abc/blob/main/{path}"
+additional-css = ["theme/style.css"]
+additional-js = ["assets/custom.js", "assets/bigPicture.js"]
+
+[output.html.fold]
+enable = false
+level = 1
+
+[output.html.print]
+enable = false
 
 [output.html.playground]
+editable = true
 line-numbers = true
+#copy-js = true
+[output.theme-ace]
+theme-white = "xcode"
+theme-dark = "monokai"
 
 [output.html.search]
-limit-results = 20
+limit-results = 13
 use-boolean-and = true
 boost-title = 2
 boost-hierarchy = 2
 boost-paragraph = 1
 expand = true
 heading-split-level = 2
+
+# book.toml
+#   230220 ++ cognitive-engineering-lab/aquascope
+#   : Interactive visualizations of Rust at compile-time and run-time https://github.com/cognitive-engineering-lab/aquascope
+#[preprocessor.aquascope]
+
+[rust]
+edition = "2021"
