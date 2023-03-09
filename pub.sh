@@ -11,7 +11,8 @@ RSS4BOOK="$(which rss4mdbook)"
 
 GIT="$(which git)"
 #==================================================================== abt. path
-ROOT=$1 
+#ROOT=$1 
+ROOT=$(pwd)
 SRC="$ROOT/src"
 DOC="$ROOT/docs"
 CNAME="$SRC/CNAME"
@@ -26,9 +27,9 @@ $MDBOOK build
 cp -fv $CNAME $DOC
 #ls $DOC
 #exa -T -L2 src/
-ls -la $DOC/rss.xml
-$RSS4BOOK gen /opt/data/Sites/mainium.icu/_books/airbook/abc.d0d.fun/book.toml
-ls -la $DOC/rss.xml
+#ls -la $DOC/rss.xml
+#$RSS4BOOK gen $ROOT/abc.d0d.fun/book.toml
+#ls -la $DOC/rss.xml
 
 NOW=`date "+%y%m%d %H:%M:%S"`
 git upd "re-build by mdbook AT{$NOW}"
