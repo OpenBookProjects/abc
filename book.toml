@@ -19,6 +19,7 @@ rss_title = "ABC ~ 卷积图书护送"
 rss_desc = "~ 每周四21:00直播聊书"
 
 [output.html]
+no-section-label = true
 git-repository-url = "https://github.com/OpenBookProjects/abc"
 edit-url-template = "https://github.com/OpenBookProjects/abc/blob/main/{path}"
 additional-css = ["theme/style.css"]
