@@ -11,7 +11,7 @@ RSS4BOOK="$(which rss4mdbook)"
 
 GIT="$(which git)"
 #==================================================================== abt. path
-ROOT="/opt/data/Sites/mainium.icu/_books/airbook/abc.d0d.fun"
+ROOT=$1 
 SRC="$ROOT/src"
 DOC="$ROOT/docs"
 CNAME="$SRC/CNAME"
@@ -20,6 +20,7 @@ CNAME="$SRC/CNAME"
 echo "###::$VER build all rustacean for rs.101.so"            #>> $LOGF
 echo "###::run@" `date +"%Y/%m/%d %H:%M:%S"` #>> $LOGF
 
+echo $ROOT
 pwd 
 $MDBOOK build
 cp -fv $CNAME $DOC
