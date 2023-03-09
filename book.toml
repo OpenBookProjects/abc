@@ -35,9 +35,9 @@ enable = false
 editable = true
 line-numbers = true
 #copy-js = true
-[output.theme-ace]
-theme-white = "xcode"
-theme-dark = "monokai"
+#[output.theme-ace]
+#theme-white = "xcode"
+#theme-dark = "monokai"
 
 [output.html.search]
 limit-results = 13
