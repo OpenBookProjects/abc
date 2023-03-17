@@ -15,6 +15,7 @@
     + [11:青少年学编程语言论0](./bb/230302_programming_learn4young0.md)
     + [12:开源文化在中国](./bb/230302_programming_learn4young0.md)
     + [13:NCRE二级 Python](./bb/230316_ncre2python.md)
+    + [14:笨办法学C](./bb/230323_thwlc.md)
 - [有关](./abt/README.md)
     + [发布](./abt/gh-pages.md)
 - [旁读](./dama/README.md)
