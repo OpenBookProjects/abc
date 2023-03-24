@@ -1,5 +1,5 @@
-# 直播
-> B站为先
+# ABC:卷积图书护送
+> B站为先, 定期聊天...
 
 固定入口 - 卷积传媒 - 哔哩哔哩直播，二次元弹幕直播平台
 **https://live.bilibili.com/25837089**
@@ -20,7 +20,11 @@
 
 那只有 BiliBili 了,毕竟上市公司了...
 
+### FW:
 
+- [LDS❤️💀🤖 - 播客名片](https://lds42.podcast.xyz/)
+- [LDS❤️💀🤖 - Youtube频道](https://youtube.com/playlist?list=PLToFpvpg6EgRuAHAIBs0aEj7GTPIHsF0R)
+- 
 
 ## logging...
 
