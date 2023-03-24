@@ -1,6 +1,6 @@
 # Summary
 
-- [直播](./bb/README.md)
+- [ABC:卷积图书护送](./bb/README.md)
     + [0:启动](./bb/221124-startup.md)
     + [1:AI简史](./bb/221208-nick-ai-shistory.md)
     + [2:代码之髓](./bb/221215-core-of-core.md)
