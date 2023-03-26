@@ -21,5 +21,10 @@
     + [发布](./abt/gh-pages.md)
 - [旁读](./dama/README.md)
     + [2023](./dama/2023/README.md)
-        + [瓜亚基印第安人编年史](./dama/2023/chronique-des-indiens-guayaki.md)
+        + [渔](./dama/fishing.md)
+            + [瓜亚基印第安人编年史](./dama/2023/chronique-des-indiens-guayaki.md)
+        + [樵](./dama/cutting.md)
+            + [关键对话 2nd](./dama/2023/crucial_conversations_2nd.md)
+        + [耕](./dama/digging.md)
+        + [读](./dama/reading.md)
 
