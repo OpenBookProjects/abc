@@ -20,6 +20,14 @@
 
 那只有 BiliBili 了,毕竟上市公司了...
 
+### info.
+
+ABC ~ AirBookCast 卷积图书放送
+总第 ?? 期, 基本上是每周四 21:00 ~ 22:00
+B站直播: live.bilibili.com/25837089
+然后提取大妈单口吐糟部分变成节目给大家继续吐糟;
+
+
 ### FW:
 
 - [LDS❤️💀🤖 - 播客名片](https://lds42.podcast.xyz/)
