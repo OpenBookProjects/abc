@@ -67,8 +67,4 @@ PS:
 ## PS:
 > 引发:
 
-- [对抗语文 (2011)](https://book.douban.com/subject/6794522/)
-- [我不原諒中國教育 (2013)](https://book.douban.com/subject/25744064/)
-- [终身幼儿园 (2018)](https://book.douban.com/subject/30285992/)
-- [教育的本质 (2019)](https://book.douban.com/subject/34802586/)
-- ...
+...
