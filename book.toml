@@ -26,7 +26,7 @@ additional-css = ["theme/style.css"]
 additional-js = ["assets/custom.js", "assets/bigPicture.js"]
 
 [output.html.fold]
-enable = false
+enable = true
 level = 1
 
 [output.html.print]
