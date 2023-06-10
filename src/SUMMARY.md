@@ -27,8 +27,6 @@
         + [终身幼儿园 (2018)](./bb/ISBN9787553674544.md)
         + [小组软件开发过程 (TSPi)](./bb/ISBN9787115087638.md)
         + [个体软件过程 (PSPi)](./bb/ISBN9787115096500.md)
-- [有关](./abt/README.md)
-    + [发布](./abt/gh-pages.md)
 - [旁读](./dama/README.md)
     + [2023](./dama/2023/README.md)
         + [渔](./dama/fishing.md)
@@ -37,4 +35,6 @@
             + [关键对话 2nd](./dama/2023/crucial_conversations_2nd.md)
         + [耕](./dama/digging.md)
         + [读](./dama/reading.md)
+- [有关](./abt/README.md)
+    + [发布](./abt/gh-pages.md)
 
