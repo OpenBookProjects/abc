@@ -34,7 +34,22 @@
         + [樵](./dama/cutting.md)
             + [关键对话 2nd](./dama/2023/crucial_conversations_2nd.md)
         + [耕](./dama/digging.md)
+            + [新闻传播法教程e6](./dama/2023/ISBN9787300226439.md)
         + [读](./dama/reading.md)
 - [有关](./abt/README.md)
     + [发布](./abt/gh-pages.md)
+
+
+
+
+
+```
+          _~`&-~_
+      \) /  ◕ o  \ \/
+        '_   ⎵   _'
+        > '--⌄--' \
+
+...act by ferris-actor v0.2.4 (built on 23.0303.201916)
+```
+
 
